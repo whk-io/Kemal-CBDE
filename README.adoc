@@ -11,3 +11,5 @@ Inside build environment type `make` to build portable binary
 
 Type `make deploy` outside environment to package the portable binary for release
 
+Re-tag `kemal-package:flat` with update location tag to push packaged deployment
+
