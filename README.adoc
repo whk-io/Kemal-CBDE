@@ -2,7 +2,7 @@
 
 Container Based Development Environment
 
-WARNING: Requires Docker
+CAUTION: Requires Docker & Make
 
 Type `make` to build and launch build environment
 
