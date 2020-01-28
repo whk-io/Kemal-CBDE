@@ -2,7 +2,7 @@
 
 Container Based Development Environment
 
-:note-caption: Requires Docker & Make
+TIP: Requires Docker & Make
 
 Type `make` to build and launch build environment
 
