@@ -1,8 +1,8 @@
-# <a href="https://kemalcr.com/">Kemal</a> CBDE 
+# https://kemalcr.com/[Kemal] CBDE 
 
 Container Based Development Environment
 
-CAUTION: Requires Docker & Make
+:note-caption: Requires Docker & Make
 
 Type `make` to build and launch build environment
 
