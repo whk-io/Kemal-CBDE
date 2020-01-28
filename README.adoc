@@ -1,15 +1,13 @@
 # Kemal CBDE 
 
-
 Container Based Development Environment
 
+WARNING: Requires Docker
 
 Type `make` to build and launch build environment
-
 
 Inside build environment type `make` to build portable binary
 
 Type `make deploy` outside environment to package the portable binary for release
 
 Re-tag `kemal-package:flat` with updated location tag to push packaged deployment
-
