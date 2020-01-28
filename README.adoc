@@ -1,3 +1,13 @@
 # Kemal CBDE 
-<br>
+
+
 Container Based Development Environment
+
+
+Type `make` to build and launch build environment
+
+
+Inside build environment type `make` to build portable binary
+
+Type `make deploy` outside environment to package the portable binary for release
+
